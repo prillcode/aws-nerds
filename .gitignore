@@ -29,3 +29,4 @@ workshops/relational-migration/source-tables/app_db.*
 
 **/.aws-sam/
 **.db
+basic-template/basic-backend/.ddb_cid
